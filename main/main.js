@@ -28,7 +28,7 @@ NBottlesOfBeer = function() {
   }
 
   function print(line) {
-    var lyc = "    "+line+ "\r\n";
+    var lyc = "    "+line+ "\n";
     return lyc;
   }
 }
